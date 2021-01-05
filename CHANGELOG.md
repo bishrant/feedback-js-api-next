@@ -41,7 +41,7 @@ and
 * ImageServiceIdentifyResult deprecated since version 4.18. Use ImageIdentifyResult instead.
 * PrintTemplate.preserveScale deprecated since version 4.16. Use PrintTemplate.scalePreserved instead.
 * ProjectParameters.outSR deprecated since version 4.4. Use ProjectParameters.outSpatialReference instead.
-* PointDrawAction.coordinates deprecated
+* PointDrawAction.coordinates deprecated since version 4.19.
 * Bookmark.extent deprecated since 4.17. Use viewpoint instead.
 * AreaMeasurement2DViewModel.clearMeasurement deprecated since version 4.16. Use clear instead.
 * AreaMeasurement2DViewModel.newMeasurement deprecated since version 4.16. Use start instead.
